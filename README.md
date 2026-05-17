@@ -9,7 +9,7 @@ Développeur passionné par le **web**, les **technos modernes** et les **projet
 - 👨‍💻 Développement web fullstack (JavaScript, React, Node.js)
 - 🐳 Dockerisation de projets
 - 🧠 Apprentissage continu de TypeScript & Next.js
-- ✨ Intégration de design futuristes (inspirés de l’univers Transformers)
+- ✨ Intégration de designs futuristes (inspirés de l’univers Transformers)
 
 ---
 
@@ -28,21 +28,57 @@ Développeur passionné par le **web**, les **technos modernes** et les **projet
 
 ---
 
+## 🚀 Mes Projets Phares :
+> Un aperçu de mes dernières créations et expérimentations. N'hésite pas à y jeter un œil !
+
+<div align="center">
+  <a href="https://github.com/Matteixou/ThreeCraft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matteixou&repo=ThreeCraft&theme=tokyonight&hide_border=true" alt="ThreeCraft" />
+  </a>
+  <a href="https://github.com/Matteixou/Projet.Three.Js.Backrooms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matteixou&repo=Projet.Three.Js.Backrooms&theme=tokyonight&hide_border=true" alt="ThreejsBackroom" />
+  </a>
+  <a href="https://github.com/Matteixou/Django-Barber">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matteixou&repo=Django-Barber&theme=tokyonight&hide_border=true" alt="Django-Barber" />
+  </a>
+  <a href="https://github.com/Matteixou/Codapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matteixou&repo=Codapp&theme=tokyonight&hide_border=true" alt="Codapp" />
+  </a>
+  <a href="https://github.com/Matteixou/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matteixou&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
+  </a>
+</div>
+
+*Tu préfères une liste classique ? Voici les liens directs :*
+- 🧊 **[ThreeCraft](https://github.com/Matteixou/ThreeCraft)** : Expérimentation 3D.
+- 🚪 **[ThreejsBackroom](https://github.com/Matteixou/Projet.Three.Js.Backrooms)** : Une expérience immersive dans les Backrooms avec Three.js.
+- ✂️ **[Django-Barber](https://github.com/Matteixou/Django-Barber)** : Application de gestion pour un Barber Shop propulsée par Django.
+- 📱 **[Codapp](https://github.com/Matteixou/Codapp)** : Application de code.
+- 🎨 **[Portfolio](https://github.com/Matteixou/portfolio)** : Mon espace personnel présentant mon univers et mes projets.
+
+---
+
 ## 🌐 Retrouve-moi ici :
 [![Instagram](https://img.shields.io/badge/@mattrixou-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matthieu.frch/)
 
 ---
 
 ## 📊 Statistiques GitHub :
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Matteixou&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteixou&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matteixou&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteixou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
 ## 🏆 Trophées :
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Matteixou&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/Matteixou)
+<div align="center">
+  <a href="https://github.com/Matteixou">
+    <img src="https://github-profile-trophy.vercel.app/?username=Matteixou&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophées GitHub" />
+  </a>
+</div>
 
 ---
 
 ### ✒️ Une ligne pour conclure :
-> "Chaque ligne de code est un pas vers quelque chose de plus grand."
+> *"Chaque ligne de code est un pas vers quelque chose de plus grand."*
